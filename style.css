@@ -218,7 +218,6 @@ input{
     font-size: 25px;
     text-transform: capitalize;
 }
-/* Feature Blog Title Style Part end  */
 /* Fact Style Part Start  */
 #fact-part{
     padding-top: 68px;
@@ -354,12 +353,9 @@ Footer Part Style
     color: #424242;
  
 }
-
-
 /*---------------------
- Media Query CSS Part 
+ Media Query 
  ---------------------- */
-
  /* Responsive for Mobile Device  */
  @media only screen and (max-width: 576px) {
     .container{
@@ -382,7 +378,6 @@ Footer Part Style
         margin-left: 10px;
     }
     
-   
     #toggle-bar{
         display: block;
         text-align: right;
@@ -536,7 +531,7 @@ Footer Part Style
         gap: 30px;
     }
     .project:hover{
-        transform: scale(85%) translate(2%, 20px);
+        transform: scale(55%) translate(4%, 40px);
     }
     #sponsor-part {
         padding-top: 30px;
